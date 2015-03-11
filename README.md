@@ -10,7 +10,7 @@ Don't start at an hour. If it's an hour long, it should be a working meeting.
 If you don't include an agenda, include bullet points about what you want to get done. Calling the meeting "Check in on X" is not enough.
 
 ### 3. Tell invitees why you want them there.
-If it isn't immediately clear, tell invitees why they're in the meeting in the descroption field. 
+If it isn't immediately clear, tell invitees why they're in the meeting in the description field. 
 
 If they're optional, let them know by hovering over their icon in Gcal and clicking:
 
