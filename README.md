@@ -14,7 +14,7 @@ If it isn't immediately clear, tell invitees why they're in the meeting in the d
 
 If they're optional, let them know by hovering over their icon in Gcal and clicking:
 
-![Show invitee they're optional]()
+![Show invitee they're optional](https://raw.githubusercontent.com/codeforamerica/meeting-etiquette/master/make-meeting-optional.gif)
 
 ### 4. Start and end on time.
 * If you're going to be late, contact the group and let them know. (Slack is good.)
@@ -22,11 +22,10 @@ If they're optional, let them know by hovering over their icon in Gcal and click
 
 ---------
 
-
 **Optional Pro-tips**
 
 * **Add in buffer time to the end of your meetings.** End 30 minute meetings 5 minutes early. End 1 hour meetings 10 minutes early. 
 
 You can do it by default in Google Calendar:
 
-![Set speedy meeting setting]()
+![Set speedy meeting setting](https://github.com/codeforamerica/meeting-etiquette/raw/master/speedy-meeting-setting.gif)
